@@ -1,0 +1,10 @@
+066604;Guta;Liviu;4;8.76
+077705;Minune;Adrian;5;9.87
+023426;Sirbu;Alex;1;8.37
+437385;Pop;Andrei;1;10
+438596;Iancu;Teodor;4;4.30
+389546;Barcau;Mihai;5;7.26
+547897;Lunca;Ianis;7;6.32
+675898;Dunca;Misu;9;2.34
+208356;Mina;Marius;5;8.36
+349548;Laru;Stan;9;7.67

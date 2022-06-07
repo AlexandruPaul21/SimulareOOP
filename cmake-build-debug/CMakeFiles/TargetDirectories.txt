@@ -1,0 +1,5 @@
+/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/CMakeFiles/SimulareOOP.dir
+/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/CMakeFiles/SimulareOOP_autogen_timestamp_deps.dir
+/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/CMakeFiles/SimulareOOP_autogen.dir

@@ -1,0 +1,24 @@
+# ninja log v5
+2	50	1652990412842624276	SimulareOOP_autogen/timestamp	e46df88dcb8b277e
+2	50	1652990412842624276	SimulareOOP_autogen/mocs_compilation.cpp	e46df88dcb8b277e
+51	582	1652990413371446753	CMakeFiles/SimulareOOP.dir/service.cpp.o	c44fcbe3117b5fbe
+30	528	1652960293071349395	CMakeFiles/SimulareOOP.dir/domain.cpp.o	410f8d99ade8591d
+2	50	1652990412842624276	/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/SimulareOOP_autogen/timestamp	e46df88dcb8b277e
+2	50	1652990412842624276	/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/SimulareOOP_autogen/mocs_compilation.cpp	e46df88dcb8b277e
+40	60	1652952923576128145	CMakeFiles/SimulareOOP.dir/SimulareOOP_autogen/mocs_compilation.cpp.o	eae0bdecb2a393b0
+31	2450	1652990230906138402	CMakeFiles/SimulareOOP.dir/main.cpp.o	d61f92e9c966f0b9
+582	682	1652990413471469146	SimulareOOP	878d8f1864667b44
+31	1284	1652990229763957368	CMakeFiles/SimulareOOP.dir/repo.cpp.o	efed16ea3af0e203
+32	2542	1652990231019390618	CMakeFiles/SimulareOOP.dir/UI.cpp.o	a8985e1f60552634
+3	44	1652990987886428704	SimulareOOP_autogen/timestamp	e46df88dcb8b277e
+3	44	1652990987886428704	SimulareOOP_autogen/mocs_compilation.cpp	e46df88dcb8b277e
+3	44	1652990987886428704	/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/SimulareOOP_autogen/timestamp	e46df88dcb8b277e
+3	44	1652990987886428704	/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/SimulareOOP_autogen/mocs_compilation.cpp	e46df88dcb8b277e
+46	1436	1652990989272722855	CMakeFiles/SimulareOOP.dir/UI.cpp.o	a8985e1f60552634
+1436	1545	1652990989387999609	SimulareOOP	878d8f1864667b44
+3	37	1652991392450456386	SimulareOOP_autogen/timestamp	e46df88dcb8b277e
+3	37	1652991392450456386	SimulareOOP_autogen/mocs_compilation.cpp	e46df88dcb8b277e
+3	37	1652991392450456386	/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/SimulareOOP_autogen/timestamp	e46df88dcb8b277e
+3	37	1652991392450456386	/Users/alex/Desktop/Facultate/UBB-II/OOP/SimulareOOP/cmake-build-debug/SimulareOOP_autogen/mocs_compilation.cpp	e46df88dcb8b277e
+38	2100	1652991394508031192	CMakeFiles/SimulareOOP.dir/UI.cpp.o	a8985e1f60552634
+2100	2203	1652991394615050426	SimulareOOP	878d8f1864667b44
